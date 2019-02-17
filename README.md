@@ -9,6 +9,6 @@ My Signature for Web Projects
 - <a href="https://github.com/mrdoob/three.js/blob/master/examples/js/loaders/OBJLoader.js" target="_blank">Three.js - OBJ Loader</a>
 #### Code
 ```
-<script src="https://g7495x.gitlab.io/g7495x-signature-three.js/g7495x.js" charset="utf-8"></script>
+<script src="https://g7495x.github.io/WebGL-G7495x-Signature---Three.js/src/g7495x.js" charset="utf-8"></script>
 <script charset="utf-8">g7495x('Demo by')</script>
 ```

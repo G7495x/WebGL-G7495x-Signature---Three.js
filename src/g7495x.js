@@ -1,6 +1,6 @@
 const g7495x=(aidText='By')=>{
 	const href='https://twitter.com/g7495x'
-	const source='https://g7495x.gitlab.io/g7495x-signature-three.js'
+	const source='https://github.com/G7495x/WebGL-G7495x-Signature---Three.js'
 
 	const piBy180=Math.PI/180
 	const twoPi=Math.PI*2

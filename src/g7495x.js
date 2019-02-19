@@ -121,8 +121,8 @@ const g7495x=(aidText='By')=>{
 		border-style: solid;
 		border-color: rgba(255,255,255,.1);
 		border-radius: 5px 7.5px;
-		background: rgba(0,0,0,.75) linear-gradient(to right,rgba(255,255,255,.075),rgba(255,255,255,.0125) 50%) no-repeat;
-		background: rgba(0,0,0,.75) linear-gradient(30deg,rgba(255,255,255,.15),rgba(255,255,255,.0375) 50%,rgba(255,255,255,.01) 50%) no-repeat;
+		background: linear-gradient(to right,rgba(255,255,255,.075),rgba(255,255,255,.0125) 50%) no-repeat;
+		background: linear-gradient(30deg,rgba(255,255,255,.15),rgba(255,255,255,.0375) 50%,rgba(255,255,255,.01) 50%) no-repeat;
 	`
 	aid.style=`
 		position: absolute;
